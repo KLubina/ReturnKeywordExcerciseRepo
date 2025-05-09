@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KL3555\\OneDrive - Hitachi Energy\\Desktop\\ReturnKeywordExcercise\\",
+  "WorkspaceRootPath": "C:\\GitHubDesktop\\ReturnKeywordExcerciseRepo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88AB909D-B85B-493C-A3E1-5E6EEB543B5D}|ReturnKeywordExcercise\\ReturnKeywordExcercise.csproj|c:\\users\\kl3555\\onedrive - hitachi energy\\desktop\\returnkeywordexcercise\\returnkeywordexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88AB909D-B85B-493C-A3E1-5E6EEB543B5D}|ReturnKeywordExcercise\\ReturnKeywordExcercise.csproj|c:\\githubdesktop\\returnkeywordexcerciserepo\\returnkeywordexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88AB909D-B85B-493C-A3E1-5E6EEB543B5D}|ReturnKeywordExcercise\\ReturnKeywordExcercise.csproj|solutionrelative:returnkeywordexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,42 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a5174402-226b-48da-aa5c-91376ed45871}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KL3555\\OneDrive - Hitachi Energy\\Desktop\\ReturnKeywordExcercise\\ReturnKeywordExcercise\\Program.cs",
+              "DocumentMoniker": "C:\\GitHubDesktop\\ReturnKeywordExcerciseRepo\\ReturnKeywordExcercise\\Program.cs",
               "RelativeDocumentMoniker": "ReturnKeywordExcercise\\Program.cs",
-              "ToolTip": "C:\\Users\\KL3555\\OneDrive - Hitachi Energy\\Desktop\\ReturnKeywordExcercise\\ReturnKeywordExcercise\\Program.cs*",
-              "RelativeToolTip": "ReturnKeywordExcercise\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\GitHubDesktop\\ReturnKeywordExcerciseRepo\\ReturnKeywordExcercise\\Program.cs",
+              "RelativeToolTip": "ReturnKeywordExcercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T11:46:53.202Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

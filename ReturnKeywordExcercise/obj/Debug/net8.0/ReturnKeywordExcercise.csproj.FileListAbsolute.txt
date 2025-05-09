@@ -12,3 +12,18 @@ C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ReturnKeywordExcercise\ReturnK
 C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ReturnKeywordExcercise\ReturnKeywordExcercise\obj\Debug\net8.0\ReturnKeywordExcercise.pdb
 C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ReturnKeywordExcercise\ReturnKeywordExcercise\obj\Debug\net8.0\ReturnKeywordExcercise.genruntimeconfig.cache
 C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ReturnKeywordExcercise\ReturnKeywordExcercise\obj\Debug\net8.0\ref\ReturnKeywordExcercise.dll
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\bin\Debug\net8.0\ReturnKeywordExcercise.exe
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\bin\Debug\net8.0\ReturnKeywordExcercise.deps.json
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\bin\Debug\net8.0\ReturnKeywordExcercise.runtimeconfig.json
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\bin\Debug\net8.0\ReturnKeywordExcercise.dll
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\bin\Debug\net8.0\ReturnKeywordExcercise.pdb
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\obj\Debug\net8.0\ReturnKeywordExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\obj\Debug\net8.0\ReturnKeywordExcercise.AssemblyInfoInputs.cache
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\obj\Debug\net8.0\ReturnKeywordExcercise.AssemblyInfo.cs
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\obj\Debug\net8.0\ReturnKeywordExcercise.csproj.CoreCompileInputs.cache
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\obj\Debug\net8.0\ReturnKeywordExcercise.sourcelink.json
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\obj\Debug\net8.0\ReturnKeywordExcercise.dll
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\obj\Debug\net8.0\refint\ReturnKeywordExcercise.dll
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\obj\Debug\net8.0\ReturnKeywordExcercise.pdb
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\obj\Debug\net8.0\ReturnKeywordExcercise.genruntimeconfig.cache
+C:\GitHubDesktop\ReturnKeywordExcerciseRepo\ReturnKeywordExcercise\obj\Debug\net8.0\ref\ReturnKeywordExcercise.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReturnKeywordExcercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f074377eb4e09ded67dbf21d73ca71b276affa8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReturnKeywordExcercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReturnKeywordExcercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
